@@ -1,5 +1,3 @@
-package program4;
-
 import java.util.*;
 
 class Course {
